@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(43, 84, 187);
+}
+
+h1{
+    color:white;
+    border:double;
+}
+
+.título{
+    color:blue;
+    text-align: center;
+}

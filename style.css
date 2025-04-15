@@ -5,9 +5,19 @@ body{
 h1{
     color:white;
     border:double;
+    text-decoration-line: underline;
 }
 
 .título{
     color:blue;
     text-align: center;
+}
+
+button{
+color:aqua;
+font-size: 50px;
+}
+
+.imagem-gato{
+    width: 400px;
 }
